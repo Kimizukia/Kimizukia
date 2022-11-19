@@ -4,7 +4,7 @@
   <a href="https://discord.gg/gXzWbR7awj">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Server"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC3k8whjg-f4LKrNINwcLE_g">
+  <a href="https://www.youtube.com/@anshouhimitsu">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/>
   </a>
   <a href="https://twitter.com/AnshouH">
